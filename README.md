@@ -2,4 +2,4 @@
 
 DMM WEBCAMPカリキュラム
 
-* HTML･CSSを学ぼう/
+* HTML･CSSを学ぼう/6章【メインビジュアルを作ろう】/
